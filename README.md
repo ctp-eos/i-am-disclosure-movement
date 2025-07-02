@@ -16,9 +16,9 @@ We’re building the future now — in the open.
 
 Backed by experimental and theoretical work, **CTP Energy Science (CTPSci)** opens new frontiers in:
 
-- 🛰️ Gravitic propulsion  
-- 🧬 Healing technologies  
-- 🧠 Conscious interface systems  
+- 🛰️ CTP Gravitic Propulsion  
+- 🧬 CTP Healing technologies  
+- 🧠 CTP Conscious interface systems  
 - 🌐 Non-local communication  
 - ⚡ Post-fuel energy systems  
 
