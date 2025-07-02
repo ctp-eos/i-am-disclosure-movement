@@ -48,7 +48,7 @@ cd iam-disclosure-movement
 
 ---
 
-## To explore the movement and connect with the ecosystem, start here:
+## To explore the movement and connect with Founder of the CTP-ecosystem, start here:
 
 🔗 [LinkTree](https://linktr.ee/resofactor) — Central hub of resources, articles, and channels
 
