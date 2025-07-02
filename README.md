@@ -12,7 +12,7 @@ We’re building the future now — in the open.
 
 ## 🌌 What is CTP Energy?
 
-**CTP** stands for **Consciousness Technology Principles**, a measurable framework that bridges the physical and non-physical through the study of the **C-domain** — the non-physical conscious-energy field that underlies space, time, and life itself.
+**CTP** stands for **Consciousness Technology Principles**, a measurable framework that bridges the physical and non-physical through the study of the **C-domain** — the non-physical conscious-energy field that underlies space, time, life, and reality itself.
 
 Backed by experimental and theoretical work, **CTP Energy Science (CTPSci)** opens new frontiers in:
 
