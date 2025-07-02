@@ -12,7 +12,7 @@ While this project is licensed under GPLv3 for open and collaborative developmen
 
 If you wish to use CTP Energy Science commercially, please contact:
 
-**legal@ctpenergy.com**
+**legal@ctp-energy.com**
 
 ---
 
